@@ -17,12 +17,12 @@ $ python main.py --env_name BreakoutNoFrameskip-v4-v2
 ```
 ## Results without tricks in [OpenAI Baselines](https://github.com/openai/baselines)
 ### BreakoutNoFrameskip-v4  
-![image](https://github.com/qingshi9974/DQN-pytorch-Atari/blob/master/images/3.png)![image](https://github.com/qingshi9974/DQN-pytorch-Atari/blob/master/images/4.png)![image](https://github.com/qingshi9974/DQN-pytorch-Atari/blob/master/images/5.png)
+![image](https://github.com/qingshi9974/DQN-pytorch-Atari/blob/master/images/3.jpg)![image](https://github.com/qingshi9974/DQN-pytorch-Atari/blob/master/images/4.jpg)![image](https://github.com/qingshi9974/DQN-pytorch-Atari/blob/master/images/5.jpg)
 
 ## Results with tricks in [OpenAI Baselines](https://github.com/openai/baselines)
 ### BreakoutNoFrameskip-v4  
-![image](https://github.com/qingshi9974/DQN-pytorch-Atari/blob/master/images/10.png)
+![image](https://github.com/qingshi9974/DQN-pytorch-Atari/blob/master/images/10.jpg)
 ### PongNoFrameskip-v4  
-![image](https://github.com/qingshi9974/DQN-pytorch-Atari/blob/master/images/15.png)
+![image](https://github.com/qingshi9974/DQN-pytorch-Atari/blob/master/images/15.jpg)
 ### BoxingNoFrameskip-v4  
-![image](https://github.com/qingshi9974/DQN-pytorch-Atari/blob/master/images/16.png)
+![image](https://github.com/qingshi9974/DQN-pytorch-Atari/blob/master/images/16.jpg)
